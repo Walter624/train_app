@@ -53,4 +53,5 @@ group :production do
 # Use postgresql as the database for Active Record
   gem 'pg'
   gem 'rails_12factor', '0.0.2'
+  gem 'puma',           '3.1.0'
 end
