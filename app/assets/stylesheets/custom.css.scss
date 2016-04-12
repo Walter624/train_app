@@ -202,3 +202,12 @@ input {
     border-bottom: 1px solid $gray-lighter;
   }
 }
+
+#photoContainer img{
+  width: 250px;
+  border: 5px solid #0CA90B;
+}
+
+#avatar img{
+  width: 150px;
+}
